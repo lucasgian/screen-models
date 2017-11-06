@@ -6,13 +6,13 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
         <div class="my-auto">
-          <h1 class="mb-0">Clarence
-            <span class="text-primary">Taylor</span>
+          <h1 class="mb-0">Gian
+            <span class="text-primary">Fonseca</span>
           </h1>
-          <div class="subheading mb-5">3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
-            <a href="mailto:name@email.com">name@email.com</a>
+          <div class="subheading mb-5">R. Carlos Chagas, B. Caiçara - (67) 9-9187-7421.
+            <a href="mailto:name@email.com">gianextensao@email.com</a>
           </div>
-          <p class="mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+          <p class="mb-5" style="text-align: justify;">Tenho experiência em desenvolvimento web, correção, sou fascinado, alucinado, compromissado,  entusiasmado, cativado e todos os outros sufixos “ado” da vida em passar horas corrigindo e criando aplicações web que agradem em beleza visual e códigos ridiculamente eficientes; posso concluir que vivo o desenvolvimento web. Quer saber o que fiz, faço e farei? Então continue lendo.</p>
           <ul class="list-inline list-social-icons mb-0">
             <li class="list-inline-item">
               <a href="#">
@@ -56,20 +56,50 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Senior Web Developer</h3>
-              <div class="subheading mb-3">Intelitec Solutions</div>
-              <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+              <h3 class="mb-0">Web Developer</h3>
+              <div class="subheading mb-3">AGETIC-UFMS</div>
+              
+                <ul>
+                  <li>
+                    <p style="text-align: justify;">
+                    Sendo certificada nível G mps-br AGETIC aplica o processo nível G no desenvolvimento de seu produtos, sendo assim, tive a grande oportunidade de vivenciar o desenvolvimento ágil na pratica; como membro de time php e usuário do framework cakephp 3.0, participei como um dos responsáveis pelo projeto de criação do sistema <a href="https://ingresso.ufms.br/">ingresso ufms</a> e testador no <a href="https://proece.ufms.br/certificados/gerar-certificado/">SIGPROJ</a>.
+                    </p>
+                  </li>
+                  <li>
+                    <p style="text-align: justify;">
+                      Colaborei com a documentação e treinamento de novos integrantes de times, dando treinamento em processo nível G e F, assim como apresentação dos conceitos de gerência de configuração com <a href="https://gitflow.wordpress.com/">padrão git-flow</a>. 
+                    </p>
+                  </li>
+                  <li>
+                    <p style="text-align: justify;">
+                      Encarregado pelo desenvolvimento visual das páginas institucionais da universidade, incluindo um gerador de páginas dinâmica usando json com injetor de informações, esses vindo direto do siscad (sistema de cadastro acadêmico), também pude desenvolver modelos de plugins wordpress usando php, para facilitar a criação de novas páginas com pré formatação definida. 
+                    </p>
+                  </li>
+                </ul>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">March 2013 - Present</span>
+              <span class="text-primary">Julho 2016 - Setembro 2017</span>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Web Developer</h3>
-              <div class="subheading mb-3">Intelitec Solutions</div>
-              <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+              <h3 class="mb-0">Mobile Developer</h3>
+              <div class="subheading mb-3">FACOM-UFMS</div>
+              
+                <ul>
+                  <li>
+                    <p style="text-align: justify;">
+                      Desenvolvedor de aplicação educacional visando conectar professores a alunos de curso superio.
+                    </p>
+                  </li>
+                  <li>
+                    <p style="text-align: justify;">
+                      Tutorial de desenvolvimento
+                      <a href="http://idie.software/?url=tutorial">Android</a>. 
+                    </p>
+                  </li>
+                </ul>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">December 2011 - March 2013</span>
@@ -150,12 +180,14 @@
             <li class="list-inline-item">
               <i class="devicons devicons-jquery"></i>
             </li>
+            <!--
             <li class="list-inline-item">
               <i class="devicons devicons-sass"></i>
             </li>
             <li class="list-inline-item">
               <i class="devicons devicons-less"></i>
             </li>
+            -->
             <li class="list-inline-item">
               <i class="devicons devicons-bootstrap"></i>
             </li>
@@ -166,7 +198,7 @@
               <i class="devicons devicons-grunt"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-gulp"></i>
+              <i class="devicon-phpstorm-plain"></i>
             </li>
             <li class="list-inline-item">
               <i class="devicons devicons-npm"></i>
