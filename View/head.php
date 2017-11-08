@@ -19,7 +19,7 @@
     <link href="<?php echo VENDOR.'vendor/font-awesome/css/font-awesome.min.css'; ?>" rel="stylesheet">
     <link href="<?php echo VENDOR.'vendor/devicons/css/devicons.min.css'; ?>" rel="stylesheet">
     <link href="<?php echo VENDOR.'vendor/simple-line-icons/css/simple-line-icons.css'; ?>" rel="stylesheet">
-     <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+    <link href="<?php echo VENDOR.'vendor/css/devic.min.css'; ?>" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="<?php echo VENDOR.'css/resume.min.css'; ?>" rel="stylesheet">
 

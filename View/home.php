@@ -102,18 +102,18 @@
                 </ul>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">December 2011 - March 2013</span>
+              <span class="text-primary">Novembro 2016 - Atualmente</span>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Junior Web Designer</h3>
-              <div class="subheading mb-3">Shout! Media Productions</div>
-              <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+              <h3 class="mb-0">Web Developer</h3>
+              <div class="subheading mb-3">CMO - Comando Militar do Oste</div>
+              <p>Desenvovedor de sistema, como pricipal coloboração no desenvolvimento do sisgat (sistema de gerência de atividades militares).</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">July 2010 - December 2011</span>
+              <span class="text-primary">Julho 2015 - Março 2016</span>
             </div>
           </div>
 
@@ -138,16 +138,16 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">University of Colorado Boulder</h3>
-              <div class="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
+              <h3 class="mb-0">Fundação Universitaria Federal do Mato Grosso do Sul</h3>
+              <div class="subheading mb-3">Bacharelado</div>
+              <div>Engenharia de Software</div>
+              
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">August 2006 - May 2010</span>
+              <span class="text-primary">Fevereiro 2015 - Desembro 2018</span>
             </div>
           </div>
-
+          <!--
           <div class="resume-item d-flex flex-column flex-md-row">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">James Buchanan High School</h3>
@@ -158,7 +158,7 @@
               <span class="text-primary">August 2002 - May 2006</span>
             </div>
           </div>
-
+          -->
         </div>
       </section>
 
@@ -173,6 +173,9 @@
             </li>
             <li class="list-inline-item">
               <i class="devicons devicons-css3"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-w3c"></i>
             </li>
             <li class="list-inline-item">
               <i class="devicons devicons-javascript"></i>
@@ -195,13 +198,19 @@
               <i class="devicons devicons-wordpress"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-grunt"></i>
+              <i class="devicons devicons-php"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicon-phpstorm-plain"></i>
+              <i class="devicons devicons-java"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-npm"></i>
+              <i class="devicons devicons-mysql"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-postgresql"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-android"></i>
             </li>
           </ul>
 
@@ -209,7 +218,7 @@
           <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa fa-check"></i>
-              Mobile-First, Responsive Design</li>
+              Mobile, Responsive Design</li>
             <li>
               <i class="fa-li fa fa-check"></i>
               Cross Browser Testing &amp; Debugging</li>
@@ -222,7 +231,7 @@
           </ul>
         </div>
       </section>
-
+      <!--
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
         <div class="my-auto">
           <h2 class="mb-5">Interests</h2>
@@ -230,7 +239,7 @@
           <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technolgy advancements in the front-end web development world.</p>
         </div>
       </section>
-
+      -->
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
         <div class="my-auto">
           <h2 class="mb-5">Awards &amp; Certifications</h2>
