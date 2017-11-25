@@ -11,8 +11,7 @@
     <title>Gian Fonseca | Skills</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="<?php echo VENDOR.'vendor/css/bootstrap.min.css'; ?>" rel="stylesheet">
-
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <!-- Custom fonts for this template -->
     <link href="<?php echo VENDOR.'vendor/css/style-page.css'; ?>" rel="stylesheet">
     <link href="<?php echo 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'; ?>" rel="stylesheet">
