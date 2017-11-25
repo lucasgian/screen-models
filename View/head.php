@@ -22,6 +22,6 @@
     <link href="<?php echo VENDOR.'vendor/css/simple-line-icons.css'; ?>" rel="stylesheet">
     <link href="<?php echo VENDOR.'vendor/css/devic.min.css'; ?>" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link href="<?php echo VENDOR.'vendor/css/resume.min.css'; ?>" rel="stylesheet">
+    <link href="<?php echo 'https://blackrockdigital.github.io/startbootstrap-resume/css/resume.min.css'; ?>" rel="stylesheet">
 
   </head>
