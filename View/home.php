@@ -1,7 +1,8 @@
 
-
-  
-
+<!--
+    <input type="text" ng-model="nome">
+        <p>Olá, Tableless! Meu nome é: {{ nome }}</p>
+-->
     <div class="container-fluid p-0">
 
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
@@ -9,37 +10,13 @@
           <h1 class="mb-0">Gian
             <span class="text-primary">Fonseca</span>
           </h1>
-          <div class="subheading mb-5">R. Carlos Chagas, B. Caiçara - (67) 9-9187-7421.
+          <div class="subheading mb-5">
             <a href="mailto:name@email.com">gianextensao@email.com</a>
           </div>
           <p class="mb-5" style="text-align: justify;">Tenho experiência em desenvolvimento web, correção, sou fascinado, alucinado, compromissado,  entusiasmado, cativado e todos os outros sufixos “ado” da vida em passar horas corrigindo e criando aplicações web que agradem em beleza visual e códigos ridiculamente eficientes; posso concluir que vivo o desenvolvimento web. Quer saber o que fiz, faço e farei? Então continue lendo.</p>
           <ul class="list-inline list-social-icons mb-0">
             <li class="list-inline-item">
-              <a href="#">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">
+              <a href="https://github.com/lucasgian">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -116,7 +93,7 @@
               <span class="text-primary">Julho 2015 - Março 2016</span>
             </div>
           </div>
-
+          <!--
           <div class="resume-item d-flex flex-column flex-md-row">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Web Design Intern</h3>
@@ -127,7 +104,7 @@
               <span class="text-primary">September 2008 - June 2010</span>
             </div>
           </div>
-
+          -->
         </div>
 
       </section>
@@ -182,6 +159,9 @@
             </li>
             <li class="list-inline-item">
               <i class="devicons devicons-jquery"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-angular"></i>
             </li>
             <!--
             <li class="list-inline-item">
@@ -240,6 +220,8 @@
         </div>
       </section>
       -->
+
+      <!--
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
         <div class="my-auto">
           <h2 class="mb-5">Awards &amp; Certifications</h2>
@@ -274,6 +256,7 @@
           </ul>
         </div>
       </section>
+      -->
 
     </div>
 

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<html ng-app>
+
 
   <head>
 
@@ -23,4 +24,6 @@
     <!-- Custom styles for this template -->
     <link href="<?php echo VENDOR.'css/resume.min.css'; ?>" rel="stylesheet">
 
+
+    <script src="http://code.angularjs.org/1.0.1/angular-1.0.1.min.js"></script>
   </head>
