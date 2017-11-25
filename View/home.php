@@ -257,19 +257,8 @@
 
     </div>
 
-    <!-- Bootstrap core JavaScript -->
-    <script src="<?php echo VENDOR.'vendor/jquery/jquery.min.js'; ?>"></script>
-    <script src="<?php echo VENDOR.'vendor/bootstrap/js/bootstrap.bundle.min.js'; ?>"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="<?php echo VENDOR.'vendor/jquery-easing/jquery.easing.min.js'; ?>"></script>
-
-    <!-- Custom scripts for this template -->
-    <script src="<?php echo VENDOR.'js/resume.min.js'; ?>"></script>
 
   </body>
 
 </html>
 
-
-http://usablica.github.io/front-end-frameworks/compare.html
