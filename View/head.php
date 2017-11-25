@@ -19,8 +19,7 @@
     <!-- in your header -->
     <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
 
-    <link href="<?php echo VENDOR.'vendor/css/simple-line-icons.css'; ?>" rel="stylesheet">
-    <link href="<?php echo VENDOR.'vendor/css/devic.min.css'; ?>" rel="stylesheet">
+    <link href="<?php echo 'https://blackrockdigital.github.io/startbootstrap-resume/vendor/devicons/css/devicons.min.css'; ?>" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="<?php echo 'https://blackrockdigital.github.io/startbootstrap-resume/css/resume.min.css'; ?>" rel="stylesheet">
 
