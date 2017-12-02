@@ -27,6 +27,19 @@
         </div>
       </section>
 
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="blogs">
+        <div class="resume-content my-auto ">
+          <h2 class="mb-5">Blogs</h2>
+          <div class="p-3">
+            <a href="https://gitflow.wordpress.com/"><h4 style="color:red;">Tudo sobre git-flow</h4></a>
+            <a href="#coming soon"><h4 style="color:red;">Tornando Laravel easy</h4></a>
+            <a href="#coming soon"><h4 style="color:red;">(Java) swing para iniciantes</h4></a>
+          </div>
+        </div>
+      </section>
+
+      
+
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
         <div class="my-auto">
           <h2 class="mb-5">Experience</h2>
