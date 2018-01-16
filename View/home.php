@@ -11,7 +11,7 @@
             <span class="text-primary">Fonseca</span>
           </h1>
           <div class="subheading mb-5">
-            <a href="mailto:name@email.com">gianextensao@email.com</a>
+            <a href="mailto:name@email.com">gianextensao@gmail.com</a>
           </div>
           <p class="mb-5" style="text-align: justify;">Tenho experiência em desenvolvimento web, correção, sou fascinado, alucinado, compromissado,  entusiasmado, cativado e todos os outros sufixos “ado” da vida em passar horas corrigindo e criando aplicações web que agradem em beleza visual e códigos ridiculamente eficientes; posso concluir que vivo o desenvolvimento web. Quer saber o que fiz, faço e farei? Então continue lendo.</p>
           <ul class="list-inline list-social-icons mb-0">
@@ -33,7 +33,7 @@
           <div class="p-3">
             <a href="https://gitflow.wordpress.com/"><h4 style="color:red;">Tudo sobre git-flow</h4></a>
             <a href="#coming soon"><h4 style="color:red;">Tornando Laravel easy</h4></a>
-            <a href="#coming soon"><h4 style="color:red;">(Java) swing para iniciantes</h4></a>
+            <a href="#coming soon"><h4 style="color:red;">(Java) swing para iniciante </h4></a>
           </div>
         </div>
       </section>
@@ -99,7 +99,7 @@
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Web Developer</h3>
-              <div class="subheading mb-3">CMO - Comando Militar do Oste</div>
+              <div class="subheading mb-3">CMO - Comando Militar do Oeste</div>
               <p>Desenvovedor de sistema, como pricipal coloboração no desenvolvimento do sisgat (sistema de gerência de atividades militares).</p>
             </div>
             <div class="resume-date text-md-right">
@@ -134,7 +134,7 @@
               
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">Fevereiro 2015 - Desembro 2018</span>
+              <span class="text-primary">Fevereiro 2015 - Dezembro 2018</span>
             </div>
           </div>
           <!--
